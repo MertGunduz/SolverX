@@ -1,0 +1,17 @@
+C:\Users\u\source\repos\SolverX\bin\Debug\netcoreapp3.1\SolverX.exe
+C:\Users\u\source\repos\SolverX\bin\Debug\netcoreapp3.1\SolverX.deps.json
+C:\Users\u\source\repos\SolverX\bin\Debug\netcoreapp3.1\SolverX.runtimeconfig.json
+C:\Users\u\source\repos\SolverX\bin\Debug\netcoreapp3.1\SolverX.runtimeconfig.dev.json
+C:\Users\u\source\repos\SolverX\bin\Debug\netcoreapp3.1\SolverX.dll
+C:\Users\u\source\repos\SolverX\bin\Debug\netcoreapp3.1\SolverX.pdb
+C:\Users\u\source\repos\SolverX\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\u\source\repos\SolverX\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\u\source\repos\SolverX\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\u\source\repos\SolverX\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\u\source\repos\SolverX\obj\Debug\netcoreapp3.1\SolverX.AssemblyInfoInputs.cache
+C:\Users\u\source\repos\SolverX\obj\Debug\netcoreapp3.1\SolverX.AssemblyInfo.cs
+C:\Users\u\source\repos\SolverX\obj\Debug\netcoreapp3.1\SolverX.csproj.CoreCompileInputs.cache
+C:\Users\u\source\repos\SolverX\obj\Debug\netcoreapp3.1\SolverX.csproj.CopyComplete
+C:\Users\u\source\repos\SolverX\obj\Debug\netcoreapp3.1\SolverX.dll
+C:\Users\u\source\repos\SolverX\obj\Debug\netcoreapp3.1\SolverX.pdb
+C:\Users\u\source\repos\SolverX\obj\Debug\netcoreapp3.1\SolverX.genruntimeconfig.cache
